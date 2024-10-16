@@ -1,7 +1,7 @@
 //Camilla (Xiao Ye) CHen
 //Class 1 Exercise
 //I used codepen to run the console.log and calculation
-//Pull request
+//new Branch for pullrequest
 
 const medPizzaSize = 13;
 const largePizzaSize = 17;
